@@ -1,0 +1,1 @@
+Exploring AI image generation for aviation management using ChatGPT Image Generation. This lab covers structured five-part image prompts, prompt refinement, prompt bleed, aviation accuracy, visual professionalism, responsible AI use, ethical checks, peer review, and human review of AI-generated aviation visuals.
